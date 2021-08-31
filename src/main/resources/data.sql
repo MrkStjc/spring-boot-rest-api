@@ -1,0 +1,2 @@
+INSERT INTO Books(book_name, id, isbn, aisle, author) values('Appium', 'fdsefr343', 'fdsefr3', '43', 'Mrkonja');
+INSERT INTO Books(book_name, id, isbn, aisle, author) values('Selenium', 'test666', 'test', '666', 'Mrkonja');
